@@ -70,24 +70,37 @@ const kristan = {
 
 ## 🛠️ Tech Stack
 
-| Category | Technology | Badge |
-|---|---|---|
-| **🎨 Frontend** | React | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| **🎨 Frontend** | TypeScript | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
-| **🎨 Frontend** | Vite | ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
-| **🎨 Frontend** | Tailwind CSS | ![Tailwind%20CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **🎨 Frontend** | Zustand | ![Zustand](https://img.shields.io/badge/-Zustand-007ACC?style=flat-square&logo=zustand&logoColor=white) |
-| **🎨 Frontend** | React Router | ![React%20Router](https://img.shields.io/badge/-React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white) |
-| **🎨 Frontend** | Axios | ![Axios](https://img.shields.io/badge/-Axios-5A29E3?style=flat-square&logo=axios&logoColor=white) |
-| **⚙️ Backend** | Node.js | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
-| **⚙️ Backend** | Express.js | ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white) |
-| **⚙️ Backend** | MongoDB | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| **⚙️ Backend** | JWT | ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white) |
-| **🧰 Tools** | Git | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| **🧰 Tools** | GitHub | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) |
-| **🧰 Tools** | ESLint | ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white) |
-| **🧰 Tools** | Prettier | ![Prettier](https://img.shields.io/badge/-Prettier-FFB22D?style=flat-square&logo=prettier&logoColor=black) |
-| **🧰 Tools** | VS Code | ![VS%20Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+<div align="center">
+
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-007ACC?style=flat-square&logo=zustand&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
+  <img src="https://img.shields.io/badge/Axios-5A29E3?style=flat-square&logo=axios&logoColor=white" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" />
+</p>
+
+### 🧰 Tools & Workflow
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prettier-FFB22D?style=flat-square&logo=prettier&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+</p>
+
+</div>
 
 ---
 
