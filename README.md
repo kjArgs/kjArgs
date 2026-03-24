@@ -68,59 +68,6 @@ const kristan = {
 
 ---
 
-## 🚀 Featured — TaskHive
-
-<div align="center">
-
-*A modern full‑stack task management platform built end‑to‑end with TypeScript.*
-
-</div>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚛️ <a href="https://github.com/Kristannnnn/TASKHIVE-FRONTEND">TaskHive Frontend</a></h3>
-      <p>
-        <img src="https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react"/>
-        <img src="https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript"/>
-        <img src="https://img.shields.io/badge/Vite-5-646CFF?style=flat-square&logo=vite"/>
-        <img src="https://img.shields.io/badge/Tailwind-3-06B6D4?style=flat-square&logo=tailwind-css"/>
-      </p>
-      <ul>
-        <li>Responsive SPA with protected routing + JWT auth</li>
-        <li>Category-based task views, modals, and feedback states</li>
-        <li>Skeleton loaders + accessibility (ARIA/keyboard)</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚙️ <a href="https://github.com/Kristannnnn/TASKHIVE-BACKEND">TaskHive Backend</a></h3>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-18+-339933?style=flat-square&logo=node.js"/>
-        <img src="https://img.shields.io/badge/Express-4-90C53F?style=flat-square&logo=express"/>
-        <img src="https://img.shields.io/badge/MongoDB-NoSQL-13AA52?style=flat-square&logo=mongodb"/>
-        <img src="https://img.shields.io/badge/JWT-Auth-000000?style=flat-square&logo=jsonwebtokens"/>
-      </p>
-      <ul>
-        <li>Production-ready REST API with layered architecture</li>
-        <li>JWT auth + bcrypt hashing + secure password reset flow</li>
-        <li>Rate limiting, CORS, and email flows (Nodemailer)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-### ✨ Highlights
-
-| Area | What’s included |
-|---|---|
-| 🔐 Authentication | Register/Login, protected routes, JWT sessions |
-| 📋 Task Management | CRUD, categories, archive flow |
-| 📧 Account Recovery | Email reset flow, secure tokens |
-| 🛡️ Security | Rate limiting, CORS, hashing best practices |
-| ♿ UX & A11y | Skeleton states, ARIA, keyboard navigation |
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
