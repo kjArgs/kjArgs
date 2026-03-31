@@ -35,18 +35,13 @@
   <img src="https://img.shields.io/badge/Spotify-Profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
 </a>
 
-</div>
-
-<br/>
-
 <div align="center">
-
-### 🎧 Spotify
-
-<a href="https://open.spotify.com/user/31m7qetxmebjtepwmi42t7ushso4?si=43f8d90ab58048c1">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31m7qetxmebjtepwmi42t7ushso4&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color=1db954&bar_color_cover=true" alt="Spotify Now Playing" />
-</a>
-
+   <br/>
+  <a href="https://open.spotify.com/track/2c5JKO8gPaOFVxQ0elwXEG?si=7736466e93fc416c">
+    <img alt="Play" width="64" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" />
+  </a>
+  <br/>
+  <sub>Click to play on Spotify</sub>
 </div>
 
 <br/>
