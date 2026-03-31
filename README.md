@@ -26,6 +26,33 @@
 
 <div align="center">
 
+### 🔗 Links
+
+<a href="https://github.com/kjArgs">
+  <img src="https://img.shields.io/badge/GitHub-%40kjArgs-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://open.spotify.com/user/31m7qetxmebjtepwmi42t7ushso4?si=43f8d90ab58048c1">
+  <img src="https://img.shields.io/badge/Spotify-Profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🎧 Spotify
+
+<a href="https://open.spotify.com/user/31m7qetxmebjtepwmi42t7ushso4?si=43f8d90ab58048c1">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31m7qetxmebjtepwmi42t7ushso4&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color=1db954&bar_color_cover=true" alt="Spotify Now Playing" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
 ### A little entertainment
 
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
@@ -92,10 +119,6 @@ const kristan = {
 
 <div align="center">
 
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=kjArgs&theme=tokyonight&hide_border=true&background=0D1117)](https://github.com/kjArgs)
 
 </div>
@@ -107,9 +130,7 @@ const kristan = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40kjArgs-181717?style=for-the-badge&logo=github)](https://github.com/kjArgs)
-<!-- Add more links below when ready -->
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINK) -->
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_LINK) -->
+[![Spotify](https://img.shields.io/badge/Spotify-Profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31m7qetxmebjtepwmi42t7ushso4?si=43f8d90ab58048c1)
 
 </div>
 
@@ -119,7 +140,6 @@ const kristan = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" width="100%"/>
 
-*Made with 💛 by [Kristan James](https://github.com/kjArgs) · Last updated: 2026-03-24*
+*Made with 💛 by [Kristan James](https://github.com/kjArgs) · Last updated: 2026-03-31*
 
 </div>
-
