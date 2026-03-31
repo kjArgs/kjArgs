@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F5A623&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+TypeScript+Developer+%F0%9F%9A%80;React+%2B+Node.js+%2B+MongoDB;Clean+UX.+Secure+APIs.+Scalable+Architecture.)](https://github.com/kjArgs
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F5A623&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+TypeScript+Developer+%F0%9F%9A%80;React+%2B+Node.js+%2B+MongoDB;Clean+UX.+Secure+APIs.+Scalable+Architecture.)
 
 </div>
 
