@@ -16,7 +16,7 @@
 
 ### Quick Overview
 
-**Full‑stack developer** focused on building clean, scalable web apps end‑to‑end.
+**MERN‑stack developer** focused on building clean, scalable web apps end‑to‑end.
 
 **Core:** React • TypeScript • Node/Express • MongoDB • JWT
 
